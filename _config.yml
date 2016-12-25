@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://13space.github.io/tree/master/myhexo
-root: /myhexo
+url: https://github.com/13space/13space.github.io
+root: /13space.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo: https://13space.github.io/tree/master/myhexo
+  repo: https://github.com/13space/13space.github.io
   branch: gh-pages
