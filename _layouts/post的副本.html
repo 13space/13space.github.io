@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<article class="post">
+
+  <h1 class="post-title">{{ page.title }}</h1>
+
+  <p class="post-meta">
+    <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%d-%m-%Y" }}</time>
+
+    {% if page.author %}
+      &nbsp;/&nbsp;
+      <span>{{ page.author }}</span>
+    {% endif %}
+  </p>
+
+  <div class="post-content">
+
+    {{ content }}
+
+    {% if page.next.url %}
+      <a class="link-to-post" href="{{ page.next.url }}">
+        <span class="link-to-post__next">&#10535; &nbsp;Next post</span>
+        <span class="link-to-post__title">{{ page.next.title }}</span>
+      </a>
+    {% endif %}
+
+    {% if page.previous.url %}
+      <a class="link-to-post" href="{{ page.previous.url }}">
+        <span class="link-to-post__prev">&#10535; &nbsp;Previous post</span>
+        <span class="link-to-post__title">{{ page.previous.title }}</span>
+      </a>
+    {% endif %}
+
+  </div>
+  
+
+  <noscript>Please enable JavaScript to view the comment form powered by <a href="https://commentit.io/">Comm(ent|it)</a></noscript>
+  <div id="commentit"></div>
+  <script type="text/javascript">
+    /** CONFIGURATION VARIABLES **/
+    var commentitUsername = '13space';
+    var commentitRepo = '13space/13space.github.io';
+    var commentitPath = '{{ page.path }}';
+
+    /** DON'T EDIT FOLLOWING LINES **/
+    (function() {
+        var commentit = document.createElement('script');
+        commentit.type = 'text/javascript';
+        commentit.async = true;
+        commentit.src = 'https://commentit.io/static/embed/dist/commentit.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(commentit);
+    })();
+  </script>
+
+</article>
