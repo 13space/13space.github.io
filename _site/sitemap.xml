@@ -3,7 +3,7 @@
 
   
   <url>
-    <loc>http://localhost:4000/posts/perceptron/</loc>
+    <loc>/posts/perceptron/</loc>
     
       <lastmod>2017-04-25</lastmod>
     
@@ -12,7 +12,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/use-vim-as-a-python-ide%E7%9A%84%E5%89%AF%E6%9C%AC/</loc>
+    <loc>/posts/use-vim-as-a-python-ide%E7%9A%84%E5%89%AF%E6%9C%AC/</loc>
     
       <lastmod>2017-03-06</lastmod>
     
@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/14879419311452/</loc>
+    <loc>/posts/14879419311452/</loc>
     
       <lastmod>2017-02-25</lastmod>
     
@@ -30,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/use-vim-as-a-python-ide/</loc>
+    <loc>/posts/use-vim-as-a-python-ide/</loc>
     
       <lastmod>2017-02-01</lastmod>
     
@@ -39,7 +39,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/space-vim/</loc>
+    <loc>/posts/space-vim/</loc>
     
       <lastmod>2017-01-25</lastmod>
     
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/perceptron/</loc>
+    <loc>/posts/perceptron/</loc>
     
       <lastmod>2017-01-01</lastmod>
     
@@ -57,7 +57,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/leetcode-414/</loc>
+    <loc>/posts/leetcode-414/</loc>
     
       <lastmod>2016-12-28</lastmod>
     
@@ -66,7 +66,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/dive-into-gradient-decent/</loc>
+    <loc>/posts/dive-into-gradient-decent/</loc>
     
       <lastmod>2016-04-15</lastmod>
     
@@ -90,7 +90,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/sitemap.xml</loc>
+      <loc>/sitemap.xml</loc>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
