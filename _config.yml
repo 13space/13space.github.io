@@ -6,17 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 13space
-email: 13.space@gmail.com
+title: Your awesome title
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-    The world is indeed a stage and we are merely players.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-lang: "cn"
-url: "" # the base hostname & protocol for your site
-twitter_username:
-github_username:  13space
+lang: "en"
+url: "http://localhost:4000" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 disqus_username:
-google_analytics: UA-92665219-1
 
 # Build settings
 markdown: kramdown
