@@ -6,9 +6,97 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 May 2017 12:18:13 +0800</pubDate>
-    <lastBuildDate>Sun, 07 May 2017 12:18:13 +0800</lastBuildDate>
+    <pubDate>Sun, 07 May 2017 12:41:07 +0800</pubDate>
+    <lastBuildDate>Sun, 07 May 2017 12:41:07 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>复杂系统及心智</title>
+        <description>&lt;p&gt;2017-05-07-complex system and mind&lt;/p&gt;
+
+&lt;h2 id=&quot;复杂性及涌现&quot;&gt;复杂性及涌现&lt;/h2&gt;
+
+&lt;h3 id=&quot;现代经验科学的根基-还原论&quot;&gt;现代经验科学的根基 ——「还原论」&lt;/h3&gt;
+
+&lt;p&gt;自从人类成为智能生物，产生意识后，便与自然分离，眼前面对的是一个复杂多变的世界。这迫使人们为了生存，必须具有「消除不确定性」的能力。&lt;/p&gt;
+
+&lt;p&gt;这方面最早的尝试是巫术和宗教。巫术和宗教在消除人类群体内部不确定上是非常成功的，能够藉由对自然、神灵的共同认同将部落成员组织成一个整体，构建自己的文化乃至文明。但是在另一方面，即&lt;strong&gt;消除外界不确定性&lt;/strong&gt;上，却是喜忧参半：巫术指引成功的概率最高也就是一半，信仰的「神灵」也不会总是指引它的子民。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;media/14930127098901/14934260783390.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+    所以，人们迫切需要自己掌握世界的规律来决定自己的命运。这些被掌握的规律，即是知识。
+    
+    
+|  | 巫术/宗教 | 哲学 | 科学 |
+| --- | --- | --- | --- |
+| 对象 | 人格自然/超验对象 | 永恒、无限、理想对象| 具体、有限、现实存在|
+| 方法 | 交感/信仰 | 理性 | 理性 &amp;amp; 实证 |
+
+    
+&lt;p&gt;
+    然而要掌握知识，首先要确信世界的**有序性**的一面，否则根本就不会有这方面的努力。在人类进入文明史后，对这个问题的不同回答就造就了不同文明传统：其中一种典型的是印度文明，认为世界的本质是「无常」和「苦」的，对探究现象世界没有兴趣，因而发展出了异常丰富的精神修炼和宗教传统；（或者如中国传统认为那张，道是不可言说的，世界万物是一个整体）相反另一种的典型则是古希腊，他们认为世界的命运是定数，是可知的、有规律的，现象世界在本质层面是由简洁的理念完美世界衍生而来的。
+    
+- 毕达哥拉斯：万物皆数
+- 逻各斯主义：世界是一团按照一定比例充分燃烧的活火
+- 柏拉图哲学：世界是完美的理念的影子
+    
+&lt;p&gt;
+    总之，地处诸多文明交汇的古希腊，不仅成为了人类最早理性文明的中心，并且结合交流产生经验传统，为科学诞生奠定了基石。
+    
+&lt;p&gt;
+
+
+综上所述，科学正是基于一组这样的假设：
+
+   - **决定论**：存在一个外在独立的世界，它遵循确定性规律。
+   - **可知论**：人们可以通过对世界及存在物进行思辨和观察掌握这些规律。
+   - **还原论**：世界及世界的存在的各种现象，都可以通过研究恰当分割所得到的部分，进而得到整体本身的性质和规律。
+
+**这也就是线性思维的体现：整体 = 部分之和**
+
+&lt;p&gt;
+    简而言之，这组假设威力巨大，是科学何以产生的根本原因。整个西方理性文明，或者说整个现代人类文明都是以此建立起来的。而没有科学，就不可能有蒸汽机和工业革命、电的运用和电力革命，和如今方兴未艾的信息革命和智能革命。
+    
+&lt;p&gt;
+    然而同时，随着现代科学的不断深化和发展，这组假设也越来越遭到质疑，并被重新认识：其中第一，第二假设被20世纪初的相对论和量子力学打破了，人们认识到并不存在外部绝对时空，并且主体的观测和行为会影响到世界本身；而第三个假设，即还原论也被20世纪70年代所发展的非线性科学与复杂性科学所挑战。
+
+- 相对论：
+- 量子力学：
+- 复杂性科学：
+    
+
+### 复杂性的诞生——非线性思维
+
+在复杂系统科学诞生之前，人们已经习惯了这样的世界观：即世界由自然界／生物／心智／社会组成，但归根结底，所有的社会组织都可以还原为个体，个体的精神和意识都可以还原为生物，而生物的一切又都可以还原为化学和物理，物理则是由不随着人们主观意志转移的某种基质组成：在古希腊是想象中的原子，现在则是基本粒子，如在标准模型中的轻子、夸克和规范子。
+    
+
+可以说，基于还原论的经典物理学和电磁学是如此成功，成为了科学毫无争议的代名词，其它学科诸如化学、生物学、心理学、社会学等纷纷效仿，并且由此影响到整个人类文化。世界不再是神秘可知，而是可以被还原为一系列的逻辑序列。宗教衰退，精神的崇高也不再，无神论兴起，人文主义跌到后现代，强科学主义几乎要统一一切。
+    
+
+但是，正如前所言，「复杂性」概念的诞生，对以上观念产生了极大冲击，和对科学原有假设的再认识，并由此开启了一个新的研究范式，即超越原有还原论和整体论的「复杂性范式」。
+    
+    &amp;gt;要想认识复杂，先要认识复杂
+    
+    「复杂性」这个概念的产生。从背景来说，源自东方观念，即能认识到世界整体，不可分割的一面。但是作为科学而言，依然是从经验现象出发产生的。
+    
+    我们先看以下几个属于复杂系统的现象。
+
+
+
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 May 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/posts/complex-system-and-mind/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/complex-system-and-mind/</guid>
+        
+        <category>machine learning</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>大数据时代内容营销的迷思与融合</title>
@@ -509,89 +597,6 @@ w_j := w_j + \Delta w_j
         <guid isPermaLink="true">http://localhost:4000/posts/perceptron/</guid>
         
         <category>machine learning</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Third Maximum Number</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/third-maximum-number/&quot;&gt;414. Third Maximum Number&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;Given a &lt;strong&gt;non-empty&lt;/strong&gt; array of integers, return the third maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).&lt;/p&gt;
-
-&lt;p&gt;The following solutions are all stealed from &lt;a href=&quot;https://discuss.leetcode.com/topic/63903/short-easy-c-using-set&quot;&gt;A short easy cpp solution using set&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;cpp version:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Solution&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;thirdMax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vector&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;auto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-                &lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;erase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;begin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-     &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;begin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;top3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rbegin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;the same idea in java:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Solution&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;thirdMax&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;TreeSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TreeSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;gt;();&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-                &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;first&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;());&lt;/span&gt;
-            &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-        &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;first&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;last&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;We can see the cpp and java version above is very similar. A person in the discussion presented a question that std::set usually uses red-black tree, so wouldn’t the solution be &lt;em&gt;nlogn&lt;/em&gt;?&lt;/p&gt;
-
-&lt;p&gt;The answer to the presented problem is since we only have 3 elements, insert/delete is a constant time operation. Don’t stick to O(&lt;em&gt;nlogn&lt;/em&gt;) concept. What’s more, if dive into the problem, we can find the following content about insert operation complexity from &lt;a href=&quot;http://www.cplusplus.com/reference/set/set/insert/&quot;&gt;cplusplus.com&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;If a single element is inserted, logarithmic in size in general, but amortized constant if a hint is given and the position given is the optimal.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Let’s see the same idea using python:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Solution&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;thirdMax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;l&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-            &lt;span class=&quot;n&quot;&gt;bisect&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;insort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;n&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;I am not an expert in python , yet, so the python solution is not so clear and understandable at my first glance. Actually, the reason is that I didn’t know &lt;code class=&quot;highlighter-rouge&quot;&gt;bisect.insort()&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;The idea could also be used to get the top k items in a large array, whereas you need pay more attention to a certain case:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Input: [2, 2, 3, 1]&lt;/p&gt;
-
-  &lt;p&gt;Output: 1&lt;/p&gt;
-
-  &lt;p&gt;Explanation: Note that the third maximum here means the third maximum distinct number.
-Both numbers with value 2 are both considered as second maximum.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If numbers with the same value can not be considered as the same one, the result is unexpected. I did make a mistake here in the past. In Bayesian Personalized Ranking algorithm, I need to obtain the top k items from a list. At that time I used the similar solution, though the final result seemingly looked normal, it was indeed wrong.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Dec 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/posts/leetcode-414/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/leetcode-414/</guid>
-        
-        <category>leetcode</category>
         
         
         <category>posts</category>
