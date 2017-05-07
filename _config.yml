@@ -10,7 +10,7 @@ title: 13space
 email: 13.space@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     The world is indeed a stage and we are merely players.
-baseurl: “13space” # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 lang: "cn"
 url: "" # the base hostname & protocol for your site
 twitter_username:

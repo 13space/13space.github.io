@@ -4,10 +4,10 @@
     <title>13space</title>
     <description>The world is indeed a stage and we are merely players.
 </description>
-    <link>http://localhost:4000“13space”/</link>
-    <atom:link href="http://localhost:4000“13space”/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Apr 2017 09:31:24 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Apr 2017 09:31:24 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 May 2017 12:18:13 +0800</pubDate>
+    <lastBuildDate>Sun, 07 May 2017 12:18:13 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -183,8 +183,8 @@ VISA，里面增加了延伸阅读的东西，这里面会植入很多的广告�
 
 </description>
         <pubDate>Sat, 25 Feb 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000“13space”/posts/14879419311452/</link>
-        <guid isPermaLink="true">http://localhost:4000“13space”/posts/14879419311452/</guid>
+        <link>http://localhost:4000/posts/14879419311452/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/14879419311452/</guid>
         
         <category>machine learning</category>
         
@@ -307,8 +307,8 @@ augroup END
 &lt;p&gt;&lt;img src=&quot;https://github.com/liuchengxu/space-vim-dark/blob/screenshots/screenshot1.png?raw=true&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000“13space”/posts/use-vim-as-a-python-ide/</link>
-        <guid isPermaLink="true">http://localhost:4000“13space”/posts/use-vim-as-a-python-ide/</guid>
+        <link>http://localhost:4000/posts/use-vim-as-a-python-ide/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/use-vim-as-a-python-ide/</guid>
         
         <category>tools</category>
         
@@ -388,8 +388,8 @@ augroup END
 &lt;p&gt;For more details, please see &lt;a href=&quot;https://github.com/liuchengxu/space-vim&quot;&gt;space-vim&lt;/a&gt;. Hope you like it too.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000“13space”/posts/space-vim/</link>
-        <guid isPermaLink="true">http://localhost:4000“13space”/posts/space-vim/</guid>
+        <link>http://localhost:4000/posts/space-vim/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/space-vim/</guid>
         
         <category>tools</category>
         
@@ -505,8 +505,8 @@ w_j := w_j + \Delta w_j
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000“13space”/posts/perceptron/</link>
-        <guid isPermaLink="true">http://localhost:4000“13space”/posts/perceptron/</guid>
+        <link>http://localhost:4000/posts/perceptron/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/perceptron/</guid>
         
         <category>machine learning</category>
         
@@ -588,8 +588,8 @@ Both numbers with value 2 are both considered as second maximum.&lt;/p&gt;
 &lt;p&gt;If numbers with the same value can not be considered as the same one, the result is unexpected. I did make a mistake here in the past. In Bayesian Personalized Ranking algorithm, I need to obtain the top k items from a list. At that time I used the similar solution, though the final result seemingly looked normal, it was indeed wrong.&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Dec 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000“13space”/posts/leetcode-414/</link>
-        <guid isPermaLink="true">http://localhost:4000“13space”/posts/leetcode-414/</guid>
+        <link>http://localhost:4000/posts/leetcode-414/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/leetcode-414/</guid>
         
         <category>leetcode</category>
         
