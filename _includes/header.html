@@ -4,15 +4,21 @@
 
   <nav class="center-wrapper nav-main">
 
-    <a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    
+	   <a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+	
 	
     {% for my_page in site.pages %}
       {% if my_page.active %}
         <a href="{{ site.baseurl | prepend: my_page.url }}">{{ my_page.title }}</a>
       {% endif %}
     {% endfor %}
+	
+ 
 
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+   <!-- 与    <a href="{{ "/categories" | prepend: site.baseurl }}">文章列表</a> -->
+   
+   <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
 
     <label for="menu-checkbox" class="toggle-button" data-open="☰" data-close="☰" onclick></label>
   </nav>
