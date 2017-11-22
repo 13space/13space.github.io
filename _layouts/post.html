@@ -31,26 +31,24 @@ layout: default
         <span class="link-to-post__title">{{ page.previous.title }}</span>
       </a>
     {% endif %}
+	 
+	 <div id="container"></div>
+	 <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+	 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+	 <script>
+	 var gitment = new Gitment({
+	   id: '页面 ID', // 可选。默认为 location.href
+	   owner: '13space',
+	   repo: 'comment',
+	   oauth: {
+	     client_id: 'e51b9cc37dbb35cf36fa',
+	     client_secret: '3f6c2e396fe81b346afd5a66e1ef5c81d3514754',
+	   },
+	 })
+	 gitment.render('container')
+	 </script>
 
   </div>
   
 
-</article>
 
-<noscript>Please enable JavaScript to view the comment form powered by <a href="https://commentit.io/">Comm(ent|it)</a></noscript>
-<div id="commentit"></div>
-<script type="text/javascript">
-  /** CONFIGURATION VARIABLES **/
-  var commentitUsername = '13space';
-  var commentitRepo = '13space/13space.github.io';
-  var commentitPath = '{{ page.path }}';
-
-  /** DON'T EDIT FOLLOWING LINES **/
-  (function() {
-      var commentit = document.createElement('script');
-      commentit.type = 'text/javascript';
-      commentit.async = true;
-      commentit.src = 'https://commentit.io/static/embed/dist/commentit.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(commentit);
-  })();
-</script>
