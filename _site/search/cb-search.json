@@ -11,6 +11,14 @@
 	
     
 	{
+		"title" : "大数据时代内容营销的迷思与融合 - machine learning",
+		"url" : "/posts/14879419311452/"
+	}
+	
+	,
+	
+    
+	{
 		"title" : "Use Vim as a Python IDE - tools",
 		"url" : "/posts/use-vim-as-a-python-ide/"
 	}
@@ -37,6 +45,22 @@
 	{
 		"title" : "Third Maximum Number - leetcode",
 		"url" : "/posts/leetcode-414/"
+	}
+	
+	,
+	
+    
+	{
+		"title" : "You Don't Know JS: ES6 & Beyond - front-end",
+		"url" : "/posts/es6/"
+	}
+	
+	,
+	
+    
+	{
+		"title" : "Welcome to Jekyll! - jekyll",
+		"url" : "/posts/welcome-to-jekyll/"
 	}
 	
 	,

@@ -1,7 +1,7 @@
 {% if page.bg %}
   <aside class="sidebar" role="note" style="background-image: url({{ site.url }}{{ site.images }}/{{ page.bg }})">
 {% else %}
-  <aside class="sidebar" role="note" style="background-image: url({{ site.url }}{{ site.images }}/bg.jpg)">
+  <aside class="sidebar" role="note" style="background-image: url({{ site.url }}{{ site.images }}/bg.svg)">
 {% endif %}
 
   <div class="cover">
@@ -30,9 +30,4 @@
   </div>
 
   <div id="switcher"></div>
-  
-  {% for tag in site.tags %}
-      <a href="/show_by_tag.html?tag={{ tag[0] }}"> {{ tag[0] }}</a>
-  {% endfor %}
-  
 </aside>
