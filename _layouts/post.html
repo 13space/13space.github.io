@@ -13,6 +13,9 @@ layout: default
       <span>{{ page.author }}</span>
     {% endif %}
   </p>
+  
+   / 总字数：{{ page.content | strip_html | strip_newlines | remove: "" | size }}
+  / 阅读时间：{{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟
 
   <div class="post-content">
 
